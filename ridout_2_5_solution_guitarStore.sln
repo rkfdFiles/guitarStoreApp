@@ -3,14 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ridout_2_5", "187\Projects_LOOKHERE\ridout2_5\WindowsApplication1\WindowsApplication1\ridout_2_5.vbproj", "{FE7EAB09-7D83-4DDB-B0F3-52859A5D6CC3}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ridout_2_5", "WindowsApplication1\ridout_2_5.vbproj", "{FE7EAB09-7D83-4DDB-B0F3-52859A5D6CC3}"
 EndProject
-Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "WindowsApplication1.vshost", "OneDrive\Documents\WindowsApplication1.vshost.exe", "{23814C77-3870-475E-AE21-3B1ED0A17DB1}"
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "WindowsApplication1.vshost", "..\..\..\..\OneDrive\Documents\WindowsApplication1.vshost.exe", "{23814C77-3870-475E-AE21-3B1ED0A17DB1}"
 	ProjectSection(DebuggerProjectSystem) = preProject
 		PortSupplier = 00000000-0000-0000-0000-000000000000
 		Executable = C:\Users\JanetRidout\OneDrive\Documents\WindowsApplication1.vshost.exe
 		RemoteMachine = 1000-315-05
-		StartingDirectory = C:\Users\Alisa\OneDrive\Documents
+		StartingDirectory = C:\Users\JanetRidout\OneDrive\Documents
 		Environment = Default
 		LaunchingEngine = 00000000-0000-0000-0000-000000000000
 		UseLegacyDebugEngines = No
